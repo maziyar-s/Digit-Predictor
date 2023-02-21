@@ -13,12 +13,12 @@ clear screen:
 
 
 add section:
-	1.It only accepts integers, otherwise it displays an error.
-	2.If nothing is written and the add button is pressed, an error will be displayed.
-	3.By drawing number and pressing the predict button and by pressing the add button,
-	the train and targets data will be added to the train_data.csv and targets.csv files.
-	4.If the files train_data.csv and targets.csv are not exists in the project directory,
-	these files will be created by pressing the add button, but all the numbers 0 to 9 must be added again which is a time-consuming task.
+1.It only accepts integers, otherwise it displays an error.
+2.If nothing is written and the add button is pressed, an error will be displayed.
+3.By drawing number and pressing the predict button and by pressing the add button,
+the train and targets data will be added to the train_data.csv and targets.csv files.
+4.If the files train_data.csv and targets.csv are not exists in the project directory,
+these files will be created by pressing the add button, but all the numbers 0 to 9 must be added again which is a time-consuming task.
 
 
 hope you enjoy.
