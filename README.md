@@ -2,6 +2,7 @@
 Digit-Predictor is a program written in Python programming language.                          
 Supervised algorithms(k-nearest neighbors) are used in this program.                              
 For more accurate prediction, please draw in the middle of the box.                                
+Recommended resolution: 1920 x 1080                                                               
 The following changes have been made to the original program:                              
 
 drawing size improved.    
